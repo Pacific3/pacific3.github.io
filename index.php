@@ -75,31 +75,30 @@
                         <p>Tu marca es única. Nuestras soluciones también. Tenemos una opción para cada situación, ajustable a cada presupuesto.</p>
                     </div>
                 </div>
-                <!-- <div class="col-md-4 col-sm-6 feature text-center">
+                <div class="col-md-4 col-sm-6 feature text-center">
                     <span class="icon icon-genius"></span>
                     <div class="feature-content">
-                        <h5>Clean Code</h5>
-                        <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
+                        <h5>Administración de Redes sociales</h5>
+                        <p>Desde la fotografía, la creación del contenido, los anuncios, hasta el muro de miles de personas.</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 feature text-center">
                     <span class="icon icon-briefcase"></span>
                     <div class="feature-content">
-                        <h5>Ready to Ship</h5>
-                        <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
+                        <h5>Creamos tu página web</h5>
+                        <p>Podemos crear tu página con código puro o utilizando un CMS como Wordpress</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 feature text-center">
                     <span class="icon icon-download"></span>
                     <div class="feature-content">
-                        <h5>Download for Free</h5>
-                        <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla.</p>
+                        <h5>Capacítate</h5>
+                        <p>Cursos y capacitaciones para que no te agarren de bajada, ideal para empresarios, emprendedores y líderes.</p>
                     </div>
-                </div> -->
+                </div>
             </div>
         </div>
     </section><!-- features -->
-
     <section id="works" class="works section no-padding">
         <div class="container-fluid">
             <div class="row no-gutter">
