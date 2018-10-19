@@ -324,8 +324,9 @@
         <div class="container">
             <div class="col-md-8 col-md-offset-2 text-center">
                 <h3>Nos encantaría trabajar contigo.</h3>
-                <p>Nos adaptamos a cualquier necesidad y presupuesto. ¡Envíanos un correo, y comenzemos la charla hoy mismo!</p>
-                <a href="mailto:nancy@pacific3.net?subject=Pacific3 Inquiry" class="btn btn-large">Enviar Correo</a>
+                <p>Nos adaptamos a cualquier necesidad y presupuesto. ¡Envíanos un correo, y comenzemos a navegar hoy mismo!</p>
+                <a href="redessociales/redessociales.html" class="btn btn-large">Enviar Correo</a>
+                <!--<a href="mailto:nancy@pacific3.net?subject=Pacific3 Inquiry" class="btn btn-large">Enviar Correo</a>-->
             </div>
         </div>
     </section><!-- download -->
