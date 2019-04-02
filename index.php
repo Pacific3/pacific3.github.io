@@ -5,7 +5,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="es"> <!--<![endif]-->
 <head>
     <meta charset="utf-8">
-    <meta name="Pacific3, Marketing Digital Colima" content="Agencia de publicidad en Colima, Marketing Colima">
+    <meta name="Pacific3, Marketing Digital Colima" content="Agencia de publicidad en Colima, Marketing Colima, Publicidad Colima">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- METAS FACEBOOK -->
 <meta content='Pacific3 - Digital Works' property='og:title'/>
